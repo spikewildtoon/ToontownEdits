@@ -1,0 +1,125 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x184D6F58>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x184D6F58>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_MM.dna
+loading MM safezone
+Reading DNA file... phase_6/dna/storage_MM_sz.dna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.dna
+fisherman origin:  render/loader_data/minniesMelodyLand/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 36.7 fps|0.036d|5 avs||439|440||0x1002|0x9710|425.3MB|427.0MB|5887.3MB|1220|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_5/dna/storage_TT_town.dna
+Reading DNA file... phase_5/dna/toontown_central_2100.dna
+DNALandmarkBuilding sb71:toon_landmark_hqTT_DNARoot did not find **/*suit_building_origin
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+handleButton
+0.0 7.1375002861 -1.20000004768 0.800000011921
+LPoint3f(-4.23975, 0.05, -2.9)
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 35.6 fps|0.001d|7 avs||739|740||0x1002|0x9710|493.1MB|495.7MB|5887.3MB|1319|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+0.0 7.1375002861 -1.20000004768 0.800000011921
+LPoint3f(-4.23975, 0.05, -2.9)
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-3
+frame rate: 38.3 fps|0.012d|4 avs||1039|1040||0x1002|0x9710|549.1MB|551.4MB|5887.3MB|1360|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+doors enter state 1
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+Battle Event localtoon-battle-event-15
+entering active SC menu
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-21
+frame rate: 32.7 fps|0.007d|1 avs||1339|1340||0x1002|0x9710|572.0MB|574.4MB|5887.3MB|1372|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+ignoring InputState-forward

@@ -1,0 +1,34 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1603FF58>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1603FF58>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_8/dna/storage_DG_town.dna
+Reading DNA file... phase_8/dna/daisys_garden_5200.dna
+DNALandmarkBuilding sb28:toon_landmark_hqDG_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/town_top_level/daisysGarden/5245/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 26.6 fps|0.006d|5 avs||352|354||0x1002|0x9710|444.4MB|442.7MB|5887.3MB|396|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 25.3 fps|0.040d|3 avs||652|654||0x1002|0x9710|445.5MB|444.0MB|5887.3MB|398|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 29.9 fps|0.006d|5 avs||952|954||0x1002|0x9710|449.1MB|447.5MB|5887.3MB|399|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 33.7 fps|0.005d|4 avs||1252|1254||0x1002|0x9710|453.4MB|451.8MB|5887.3MB|401|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+ignoring InputState-forward

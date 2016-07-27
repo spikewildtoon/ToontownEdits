@@ -1,0 +1,117 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1842FF58>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_MM.dna
+loading MM safezone
+Reading DNA file... phase_6/dna/storage_MM_sz.dna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.dna
+fisherman origin:  render/loader_data/minniesMelodyLand/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 39.3 fps|0.003d|4 avs||484|490||0x1002|0x9710|389.0MB|411.6MB|5887.3MB|363|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+chatButtonPressed
+frame rate: 75.8 fps|0.004d|0 avs||784|790||0x1002|0x9710|409.0MB|409.6MB|5887.3MB|389|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+chatButtonPressed
+entering active SC menu
+entering active SC menu
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_DD.dna
+Reading DNA file... phase_6/dna/storage_DD_sz.dna
+Reading DNA file... phase_6/dna/donalds_dock_sz.dna
+DNALandmarkBuilding sb10:toon_landmark_DD_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_DL.dna
+Reading DNA file... phase_8/dna/storage_DL_sz.dna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.dna
+fisherman origin:  render/loader_data/donaldsDreamland/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 28.6 fps|0.035d|4 avs||1084|1090||0x1002|0x9710|455.5MB|442.4MB|5887.3MB|653|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_8/dna/storage_DL_town.dna
+Reading DNA file... phase_8/dna/donalds_dreamland_9200.dna
+DNALandmarkBuilding sb56:toon_landmark_hqDL_DNARoot did not find **/*suit_building_origin
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+chatButtonPressed
+entering active SC menu
+entering active SC menu
+chatButtonPressed
+entering active SC menu
+frame rate: 34.4 fps|0.042d|0 avs||1384|1390||0x1002|0x9710|538.4MB|525.9MB|5887.3MB|978|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 5684
+chatButtonPressed
+entering active SC menu
+frame rate: 9.9 fps|0.033d|2 avs||1684|1690||0x1002|0x9710|538.0MB|524.1MB|5887.3MB|1192|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 8.9 fps|0.001d|2 avs||1984|1990||0x1002|0x9710|538.3MB|524.4MB|5887.3MB|1192|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 8.9 fps|0.003d|2 avs||2284|2290||0x1002|0x9710|538.3MB|524.4MB|5887.3MB|1196|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 27.7 fps|0.010d|2 avs||2584|2590||0x1002|0x9710|538.3MB|524.4MB|5887.3MB|1204|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 30.0 fps|0.006d|2 avs||2884|2890||0x1002|0x9710|538.3MB|524.4MB|5887.3MB|1211|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+ignoring InputState-forward

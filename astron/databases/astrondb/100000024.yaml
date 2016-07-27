@@ -1,0 +1,16 @@
+id: 100000024
+class: DistributedHouse
+fields:
+  setAvatarId: (100000020)
+  setInteriorItems: (<90000801b9ffbf000000ab000000fc030178ff0601000000000000c800013dfff700000000000000f4010129ff3a000000550000001405014f008fff0000c0000000fc030131ff4100000060000000fc0301a0008fff0000c0000000900101e6ffd5000000cb000000640001c0fff6000000f500000064000111ffa900000040000000640001000000000000000000007705>)
+  setInteriorInitialized: (1)
+  setColor: (0)
+  setAtticWindows: (<0000>)
+  setAtticItems: (<0000>)
+  setInteriorWindows: (<05000806000014>)
+  setAtticWallpaper: (<0000>)
+  setHouseType: (0)
+  setGardenPos: (0)
+  setName: ("The Duck")
+  setInteriorWallpaper: (<09000805004c0400e80300>)
+  setDeletedItems: (<0000>)

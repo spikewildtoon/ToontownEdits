@@ -1,0 +1,16 @@
+id: 100000048
+class: DistributedHouse
+fields:
+  setHouseType: (0)
+  setGardenPos: (0)
+  setAvatarId: (100000045)
+  setName: ("Spike Wildtoon Jr")
+  setColor: (1)
+  setAtticItems: (<210008010090010100640001006400010064000100fc030100f2030100fc0301001405>)
+  setInteriorItems: (<2800080178ff0601000000000000c800013dfff700000000000000f40101000000000000000000007705>)
+  setAtticWallpaper: (<0000>)
+  setInteriorWallpaper: (<09000805004c0400e80300>)
+  setAtticWindows: (<0000>)
+  setInteriorWindows: (<05000806000014>)
+  setDeletedItems: (<0000>)
+  setInteriorInitialized: (1)

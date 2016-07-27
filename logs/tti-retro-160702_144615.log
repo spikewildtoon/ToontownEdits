@@ -1,0 +1,97 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17C47148>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_DD.dna
+Reading DNA file... phase_6/dna/storage_DD_sz.dna
+Reading DNA file... phase_6/dna/donalds_dock_sz.dna
+DNALandmarkBuilding sb10:toon_landmark_DD_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+-----------Starting tailor interaction-----------
+avid: 100000064, gender: f
+current top = 0,27,0,27 and  bot = 8,27,
+topsList = []
+bottomsList = []
+-------------------------------------------------
+-----------ending tailor interaction-----------
+avid: 100000064, gender: f
+current top = 0,27,0,27 and  bot = 8,27,
+topsList = []
+bottomsList = []
+-------------------------------------------------
+fisherman origin:  hidden/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 2432
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 2432
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+Exception occurred while processing Func-hide-137 of Sequence-198:
+Sequence-198:
+  0.000 Sequence-198 {
+  0.000   Wait dur 0.1
+  0.100   Wait dur 6
+  6.100   LerpColorScaleInterval-394: color_scale to 1 1 1 0 dur 0.5
+  6.600   *Func-hide-137
+  6.600 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 1801, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.9.0\direct\interval\IntervalManager.py", line 96, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.9.0\direct\interval\IntervalManager.py", line 119, in __doPythonCallbacks
+    ival.privPostEvent()
+  File "C:\Panda3D-1.9.0\direct\interval\MetaInterval.py", line 518, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.9.0\direct\interval\MetaInterval.py", line 494, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.9.0\direct\interval\Interval.py", line 207, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.9.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+AssertionError: !is_empty() at line 1979 of c:\users\bryson\panda3d\panda\src\pgraph\nodePath.I
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 1801, in __ivalLoop
+    IntervalManager.ivalMgr.step()
+  File "C:\Panda3D-1.9.0\direct\interval\IntervalManager.py", line 96, in step
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.9.0\direct\interval\IntervalManager.py", line 119, in __doPythonCallbacks
+    ival.privPostEvent()
+  File "C:\Panda3D-1.9.0\direct\interval\MetaInterval.py", line 518, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.9.0\direct\interval\MetaInterval.py", line 494, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.9.0\direct\interval\Interval.py", line 207, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.9.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+AssertionError: !is_empty() at line 1979 of c:\users\bryson\panda3d\panda\src\pgraph\nodePath.I

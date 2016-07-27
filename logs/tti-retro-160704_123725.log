@@ -1,0 +1,304 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x18447148>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 2812
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+chatButtonPressed
+frame rate: 96.4 fps|0.008d|0 avs||341|344||0x10de|0x0fc8|443.7MB|446.5MB|6143.3MB|437|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 89.9 fps|0.007d|0 avs||641|644||0x10de|0x0fc8|490.8MB|494.5MB|6143.3MB|449|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 84.6 fps|0.007d|0 avs||941|944||0x10de|0x0fc8|526.6MB|529.9MB|6143.3MB|458|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+entering active SC menu
+GOLF COURSE CLEANUP
+GOLF COURSE DELETE
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 2812
+chatButtonPressed
+ignoring InputState-forward
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x183B5F58>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x183B5F58>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 2622
+chatButtonPressed
+chatButtonPressed
+ignoring InputState-forward
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x18920800>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x18920800>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 2601
+av Pos LPoint3f(53.1132, -148.14, -3.1603)
+Camera Hprs toon LVector3f(302.249, 0, 0); lookIn LVector3f(540, -30, 0); final LVector3f(237.751, -30, 0)
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+av Pos LPoint3f(54.3608, -146.562, -3.1603)
+Camera Hprs toon LVector3f(186.414, 0, 0); lookIn LVector3f(540, -30, 0); final LVector3f(353.586, -30, 0)
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+av Pos LPoint3f(52.7232, -145.656, -3.1603)
+Camera Hprs toon LVector3f(217.573, 0, 0); lookIn LVector3f(540, -30, 0); final LVector3f(322.427, -30, 0)
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entering active SC menu
+entering active SC menu
+frame rate: 68.9 fps|0.003d|2 avs||1731|1735||0x10de|0x0fc8|577.6MB|581.8MB|6143.3MB|700|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_6/dna/storage_DD.dna
+Reading DNA file... phase_6/dna/storage_DD_sz.dna
+Reading DNA file... phase_6/dna/donalds_dock_sz.dna
+DNALandmarkBuilding sb10:toon_landmark_DD_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+-----------Starting closet interaction-----------
+avid: 100000046, gender: f
+current top = 21,11,0,11 and  bot = 1,11,
+topsList = []
+bottomsList = []
+-------------------------------------------------
+-----------ending trunk interaction-----------
+avid: 100000046, gender: f
+current top = 21,11,0,11 and  bot = 1,11,
+topsList = []
+bottomsList = []
+-------------------------------------------------
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+frame rate: 81.4 fps|0.007d|0 avs||2031|2035||0x10de|0x0fc8|618.5MB|621.8MB|6143.3MB|774|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+-----------Starting closet interaction-----------
+avid: 100000046, gender: f
+current top = 21,11,0,11 and  bot = 1,11,
+topsList = []
+bottomsList = []
+-------------------------------------------------
+-----------ending trunk interaction-----------
+avid: 100000046, gender: f
+current top = 21,11,0,11 and  bot = 1,11,
+topsList = []
+bottomsList = []
+-------------------------------------------------
+frame rate: 59.8 fps|0.001d|0 avs||2331|2335||0x10de|0x0fc8|622.1MB|625.2MB|6143.3MB|776|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_MM.dna
+loading MM safezone
+Reading DNA file... phase_6/dna/storage_MM_sz.dna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.dna
+fisherman origin:  render/loader_data/minniesMelodyLand/fishing_pond_1/npc_fisherman_origin_0
+chatButtonPressed
+ignoring InputState-forward
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2C193AD0>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2C193AD0>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_MM.dna
+loading MM safezone
+Reading DNA file... phase_6/dna/storage_MM_sz.dna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.dna
+fisherman origin:  render/loader_data/minniesMelodyLand/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_GS.dna
+Reading DNA file... phase_6/dna/storage_GS_sz.dna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.dna
+0.40000000596
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 35.1 fps|0.004d|4 avs||2957|2960||0x10de|0x0fc8|679.5MB|682.5MB|6143.3MB|1018|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 44.7 fps|0.009d|0 avs||3257|3260||0x10de|0x0fc8|704.9MB|708.0MB|6143.3MB|1081|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 2537
+av Pos LPoint3f(53.3998, -147.87, -3.1603)
+Camera Hprs toon LVector3f(217.267, 0, 0); lookIn LVector3f(540, -30, 0); final LVector3f(322.733, -30, 0)
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Reading DNA file... phase_6/dna/storage_DD.dna
+Reading DNA file... phase_6/dna/storage_DD_sz.dna
+Reading DNA file... phase_6/dna/donalds_dock_sz.dna
+DNALandmarkBuilding sb10:toon_landmark_DD_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 27.9 fps|0.026d|4 avs||3557|3560||0x10de|0x0fc8|730.9MB|734.1MB|6143.3MB|1188|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+fisherman origin:  hidden/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_DL.dna
+Reading DNA file... phase_8/dna/storage_DL_sz.dna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.dna
+fisherman origin:  render/loader_data/donaldsDreamland/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 27.8 fps|0.030d|4 avs||3857|3860||0x10de|0x0fc8|758.2MB|761.0MB|6143.3MB|1238|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_8/dna/storage_DG_town.dna
+Reading DNA file... phase_8/dna/daisys_garden_5300.dna
+fisherman origin:  render/town_top_level/daisysGarden/5318/fishing_pond_1/npc_fisherman_origin_0
+Battle Event localtoon-battle-event-3
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\toon\DistributedToon.py", line 1025, in setQuests
+    messenger.send('questsChanged')
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\shtiker\QuestPage.py", line 111, in updatePage
+    self.fillQuestFrame(newQuestDesc, index)
+  File "toontown\shtiker\QuestPage.py", line 83, in fillQuestFrame
+    self.questFrames[index].update(questDesc)
+  File "toontown\quest\QuestPoster.py", line 309, in update
+    toNpcHoodId = ZoneUtil.getCanonicalHoodId(toNpcZone)
+  File "toontown\hood\ZoneUtil.py", line 182, in getCanonicalHoodId
+    return getHoodId(getCanonicalZoneId(zoneId))
+  File "toontown\hood\ZoneUtil.py", line 170, in getHoodId
+    hoodId = zoneId - zoneId % 1000
+TypeError: unsupported operand type(s) for %: 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\toon\DistributedToon.py", line 1025, in setQuests
+    messenger.send('questsChanged')
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\shtiker\QuestPage.py", line 111, in updatePage
+    self.fillQuestFrame(newQuestDesc, index)
+  File "toontown\shtiker\QuestPage.py", line 83, in fillQuestFrame
+    self.questFrames[index].update(questDesc)
+  File "toontown\quest\QuestPoster.py", line 309, in update
+    toNpcHoodId = ZoneUtil.getCanonicalHoodId(toNpcZone)
+  File "toontown\hood\ZoneUtil.py", line 182, in getCanonicalHoodId
+    return getHoodId(getCanonicalZoneId(zoneId))
+  File "toontown\hood\ZoneUtil.py", line 170, in getHoodId
+    hoodId = zoneId - zoneId % 1000
+TypeError: unsupported operand type(s) for %: 'NoneType' and 'int'

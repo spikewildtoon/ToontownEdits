@@ -1,0 +1,92 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1855B148>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1855B148>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+chatButtonPressed
+entering active SC menu
+frame rate: 228.6 fps|0.000d|1 avs||345|347||0x10de|0x0fc8|409.1MB|411.7MB|6143.3MB|420|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+chatButtonPressed
+frame rate: 224.7 fps|0.000d|1 avs||645|647||0x10de|0x0fc8|409.2MB|411.7MB|6143.3MB|420|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+chatButtonPressed
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_6/dna/storage_GS.dna
+Reading DNA file... phase_6/dna/storage_GS_sz.dna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.dna
+frame rate: 36.5 fps|0.046d|1 avs||948|950||0x10de|0x0fc8|449.7MB|451.6MB|6143.3MB|470|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\racing\DistributedStartingBlock.py", line 325, in setMovie
+    self.request('EnterMovie')
+  File "C:\Panda3D-1.9.0\direct\fsm\FSM.py", line 322, in request
+    self.__setState(*result)
+  File "C:\Panda3D-1.9.0\direct\fsm\FSM.py", line 457, in __setState
+    self.__callEnterFunc(self.newState, *args)
+  File "C:\Panda3D-1.9.0\direct\fsm\FSM.py", line 493, in __callEnterFunc
+    func(*args)
+  File "toontown\racing\DistributedStartingBlock.py", line 680, in enterEnterMovie
+    raceName = TTLocalizer.KartRace_RaceNames[self.kartPad.trackType]
+AttributeError: DistributedViewPad instance has no attribute 'trackType'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\racing\DistributedStartingBlock.py", line 325, in setMovie
+    self.request('EnterMovie')
+  File "C:\Panda3D-1.9.0\direct\fsm\FSM.py", line 322, in request
+    self.__setState(*result)
+  File "C:\Panda3D-1.9.0\direct\fsm\FSM.py", line 457, in __setState
+    self.__callEnterFunc(self.newState, *args)
+  File "C:\Panda3D-1.9.0\direct\fsm\FSM.py", line 493, in __callEnterFunc
+    func(*args)
+  File "toontown\racing\DistributedStartingBlock.py", line 680, in enterEnterMovie
+    raceName = TTLocalizer.KartRace_RaceNames[self.kartPad.trackType]
+AttributeError: DistributedViewPad instance has no attribute 'trackType'

@@ -1,0 +1,143 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17796148>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17796148>}
+entering active SC menu
+local
+2
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 61, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 55, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 122, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\toonbase\ToonBase.py", line 241, in windowEvent
+    OTPBase.OTPBase.windowEvent(self, win)
+  File "C:\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 2623, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 511, in userExit
+    self.cr.loginFSM.request('shutdown')
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 210, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 189, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 210, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 189, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 214, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\distributed\PlayGame.py", line 419, in exitEstateHood
+    self._destroyHood()
+  File "toontown\distributed\PlayGame.py", line 203, in _destroyHood
+    self.hood.exit()
+  File "toontown\hood\EstateHood.py", line 58, in exit
+    self.loader.exit()
+  File "toontown\estate\EstateLoader.py", line 126, in exit
+    self.loader.Music.stop()
+AttributeError: EstateLoader instance has no attribute 'loader'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 61, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 55, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 122, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\toonbase\ToonBase.py", line 241, in windowEvent
+    OTPBase.OTPBase.windowEvent(self, win)
+  File "C:\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 2623, in windowEvent
+    self.userExit()
+  File "toontown\toonbase\ToonBase.py", line 511, in userExit
+    self.cr.loginFSM.request('shutdown')
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 210, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 189, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 210, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 189, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.9.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.9.0\direct\fsm\State.py", line 214, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\distributed\PlayGame.py", line 419, in exitEstateHood
+    self._destroyHood()
+  File "toontown\distributed\PlayGame.py", line 203, in _destroyHood
+    self.hood.exit()
+  File "toontown\hood\EstateHood.py", line 58, in exit
+    self.loader.exit()
+  File "toontown\estate\EstateLoader.py", line 126, in exit
+    self.loader.Music.stop()
+AttributeError: EstateLoader instance has no attribute 'loader'

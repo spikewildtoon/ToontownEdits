@@ -1,0 +1,55 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x18090148>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+frame rate: 74.8 fps|0.006d|0 avs||415|427||0x10de|0x0fc8|427.9MB|431.6MB|6143.3MB|424|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Battle Event localtoon-battle-event-3
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_DD.dna
+Reading DNA file... phase_6/dna/storage_DD_sz.dna
+Reading DNA file... phase_6/dna/donalds_dock_sz.dna
+DNALandmarkBuilding sb10:toon_landmark_DD_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 35.1 fps|0.003d|4 avs||715|727||0x10de|0x0fc8|479.9MB|482.9MB|6143.3MB|497|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 32.4 fps|0.002d|4 avs||1015|1027||0x10de|0x0fc8|480.3MB|483.2MB|6143.3MB|497|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 31.4 fps|0.002d|4 avs||1315|1327||0x10de|0x0fc8|480.4MB|483.5MB|6143.3MB|497|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+ignoring InputState-forward

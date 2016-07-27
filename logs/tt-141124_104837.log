@@ -1,0 +1,299 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x16C65F58>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 4225
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+frame rate: 55.1 fps|0.010d|0 avs||374|383||0x1002|0x9710|422.2MB|421.1MB|5887.3MB|349|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+frame rate: 60.1 fps|0.002d|0 avs||674|683||0x1002|0x9710|422.7MB|421.4MB|5887.3MB|349|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+Warning: NodePath.id() is deprecated.  Use hash(NodePath) or NodePath.get_key() instead.
+frame rate: 87.0 fps|0.003d|0 avs||974|983||0x1002|0x9710|423.9MB|422.6MB|5887.3MB|365|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+chatButtonPressed
+ignoring InputState-forward
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1C30FE90>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1C30FE90>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1C30FE90>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_5/dna/storage_TT_town.dna
+Reading DNA file... phase_5/dna/toontown_central_2200.dna
+DNALandmarkBuilding sb42:toon_landmark_hqTT_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/town_top_level/toontownCentral/2236/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 32.6 fps|0.005d|5 avs||1651|1659||0x1002|0x9710|506.2MB|527.6MB|5887.3MB|544|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_6/dna/storage_MM.dna
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_6/dna/storage_MM_town.dna
+Reading DNA file... phase_6/dna/minnies_melody_land_4100.dna
+DNALandmarkBuilding sb59:toon_landmark_hqMM_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/town_top_level/minniesMelodyLand/4148/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 26.7 fps|0.025d|7 avs||1951|1959||0x1002|0x9710|543.7MB|544.1MB|5887.3MB|562|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+loading MM safezone
+Reading DNA file... phase_6/dna/storage_MM_sz.dna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.dna
+fisherman origin:  render/loader_data/minniesMelodyLand/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 23.3 fps|0.005d|7 avs||2251|2259||0x1002|0x9710|555.6MB|556.2MB|5887.3MB|582|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+chatButtonPressed
+ignoring InputState-forward
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17199120>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17199120>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x17199120>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+entering active SC menu
+entering active SC menu
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_DD.dna
+Reading DNA file... phase_6/dna/storage_DD_sz.dna
+Reading DNA file... phase_6/dna/donalds_dock_sz.dna
+DNALandmarkBuilding sb10:toon_landmark_DD_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 22.3 fps|0.038d|7 avs||2755|2764||0x1002|0x9710|592.4MB|614.6MB|5887.3MB|724|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_6/dna/storage_DD_town.dna
+Reading DNA file... phase_6/dna/donalds_dock_1200.dna
+empty flat building with no walls
+empty flat building with no walls
+empty flat building with no walls
+DNALandmarkBuilding sb29:toon_landmark_hqDD_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/town_top_level/donaldsDock/1236/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  render/town_top_level/donaldsDock/1236/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_8/dna/storage_DG_town.dna
+Reading DNA file... phase_8/dna/daisys_garden_5200.dna
+DNALandmarkBuilding sb28:toon_landmark_hqDG_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/town_top_level/daisysGarden/5245/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 20.2 fps|0.044d|7 avs||3055|3064||0x1002|0x9710|656.9MB|657.7MB|5887.3MB|755|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 22.2 fps|0.032d|10 avs||3355|3364||0x1002|0x9710|681.2MB|682.4MB|5887.3MB|772|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\toon\DistributedToon.py", line 1025, in setQuests
+    messenger.send('questsChanged')
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\shtiker\QuestPage.py", line 111, in updatePage
+    self.fillQuestFrame(newQuestDesc, index)
+  File "toontown\shtiker\QuestPage.py", line 83, in fillQuestFrame
+    self.questFrames[index].update(questDesc)
+  File "toontown\quest\QuestPoster.py", line 309, in update
+    toNpcHoodId = ZoneUtil.getCanonicalHoodId(toNpcZone)
+  File "toontown\hood\ZoneUtil.py", line 182, in getCanonicalHoodId
+    return getHoodId(getCanonicalZoneId(zoneId))
+  File "toontown\hood\ZoneUtil.py", line 170, in getHoodId
+    hoodId = zoneId - zoneId % 1000
+TypeError: unsupported operand type(s) for %: 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\toon\DistributedToon.py", line 1025, in setQuests
+    messenger.send('questsChanged')
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\shtiker\QuestPage.py", line 111, in updatePage
+    self.fillQuestFrame(newQuestDesc, index)
+  File "toontown\shtiker\QuestPage.py", line 83, in fillQuestFrame
+    self.questFrames[index].update(questDesc)
+  File "toontown\quest\QuestPoster.py", line 309, in update
+    toNpcHoodId = ZoneUtil.getCanonicalHoodId(toNpcZone)
+  File "toontown\hood\ZoneUtil.py", line 182, in getCanonicalHoodId
+    return getHoodId(getCanonicalZoneId(zoneId))
+  File "toontown\hood\ZoneUtil.py", line 170, in getHoodId
+    hoodId = zoneId - zoneId % 1000
+TypeError: unsupported operand type(s) for %: 'NoneType' and 'int'

@@ -1,0 +1,185 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.ToontownStart: Polling for game2 to finish...
+
+ToontownStart: Starting the game.ToontownStart: Game2 is finished.
+
+ToontownStart: Starting the game.
+ToontownStart: setting default fontToontownStart: setting default font
+
+TTLocalizer: Running in language: englishTTLocalizer: Running in language: english
+
+om toontown.toonbase.TTLocalizerEnglish import *from toontown.toonbase.TTLocalizerEnglish import *
+
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *OTPLocalizer: Running in language: english
+
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)ToontownStart: serverVersion: 
+ tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...Preloading avatars...
+
+Done preloading avatars.
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x173FEF58>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x181D5F58>}
+entering active SC menu
+entering active SC menu
+local
+local
+1
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file...Reading DNA file...  phase_3.5/dna/storage_interior.dnaphase_3.5/dna/storage_interior.dna
+
+frame rate: 37.6 fps|0.003d|10 avs||380|388||0x1002|0x9710|378.8MB|398.8MB|5887.3MB|386|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 37.2 fps|0.018d|10 avs||380|388||0x1002|0x9710|384.1MB|404.4MB|5887.3MB|394|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-3
+Battle Event localtoon-battle-event-3
+doors enter state 1
+doors enter state 1
+openInnerDoorsopenInnerDoors
+
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-9
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-9
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+entering active SC menu
+entering active SC menu
+frame rate: 45.5 fps|0.011d|1 avs||680|688||0x1002|0x9710|436.5MB|455.2MB|5887.3MB|413|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 53.1 fps|0.008d|1 avs||680|688||0x1002|0x9710|440.4MB|460.1MB|5887.3MB|419|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+doors enter state 1
+openInnerDoorsopenInnerDoors
+
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-15
+Battle Event localtoon-battle-event-15
+doors enter state 1
+openInnerDoors
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-21
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-21
+cam pos =  LPoint3f(15, 0, 3) , cam hpr =  LVecBase3f(89, 0, 0)
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+Battle Event localtoon-battle-event-27
+frame rate: 25.8 fps|0.016d|4 avs||980|988||0x1002|0x9710|459.0MB|477.7MB|5887.3MB|421|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 25.4 fps|0.027d|4 avs||980|988||0x1002|0x9710|464.9MB|484.3MB|5887.3MB|426|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Battle Event localtoon-battle-event-27
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+doors enter state 1
+openInnerDoors
+openInnerDoors
+0.0 7.37500047684 -3.20000004768 0.800000011921
+LPoint3f(-4.3775, 0.05, -3.9)
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-33
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+Battle Event localtoon-battle-event-33
+ignoring InputState-forward
+ignoring InputState-forward

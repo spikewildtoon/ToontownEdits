@@ -1,0 +1,26 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1781FF58>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_MM.dna
+loading MM safezone
+Reading DNA file... phase_6/dna/storage_MM_sz.dna
+Reading DNA file... phase_6/dna/minnies_melody_land_sz.dna
+fisherman origin:  render/loader_data/minniesMelodyLand/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 36.6 fps|0.010d|4 avs||391|400||0x1002|0x9710|391.2MB|414.4MB|5887.3MB|454|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+frame rate: 44.7 fps|0.002d|4 avs||691|700||0x1002|0x9710|391.8MB|415.0MB|5887.3MB|455|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+ignoring InputState-forward

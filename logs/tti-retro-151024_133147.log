@@ -1,0 +1,162 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tt-beta-v.1.0.1 (Squirting Flower)
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1803F148>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_8/dna/storage_DL.dna
+Reading DNA file... phase_8/dna/storage_DL_sz.dna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.dna
+fisherman origin:  render/loader_data/donaldsDreamland/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_6/dna/storage_DD.dna
+Reading DNA file... phase_6/dna/storage_DD_sz.dna
+Reading DNA file... phase_6/dna/donalds_dock_sz.dna
+DNALandmarkBuilding sb10:toon_landmark_DD_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/donaldsDock/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_13/dna/storage_party_sz.dna
+Reading DNA file... phase_13/dna/party_sz.dna
+frame rate: 94.7 fps|0.001d|0 avs||397|424||0x10de|0x0fc8|482.7MB|486.0MB|6143.3MB|501|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_8/dna/storage_DG_town.dna
+Reading DNA file... phase_8/dna/daisys_garden_5300.dna
+fisherman origin:  render/town_top_level/daisysGarden/5318/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 56.4 fps|0.011d|10 avs||697|724||0x10de|0x0fc8|533.4MB|536.3MB|6143.3MB|586|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Reading DNA file... phase_6/dna/storage_GS.dna
+Reading DNA file... phase_6/dna/storage_GS_sz.dna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.dna
+0.40000000596
+0.40000000596
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+frame rate: 35.1 fps|0.002d|0 avs||997|1024||0x10de|0x0fc8|570.8MB|573.4MB|6143.3MB|635|nt.2.6.1|2.700,2.700|6,6 cpus|OpenGL
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Reading DNA file... phase_6/dna/storage_GS.dna
+Reading DNA file... phase_6/dna/storage_GS_sz.dna
+Reading DNA file... phase_6/dna/goofy_speedway_sz.dna
+0.40000000596
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_5/dna/storage_TT_town.dna
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_town.dna
+Reading DNA file... phase_8/dna/storage_DL.dna
+Reading DNA file... phase_8/dna/storage_DL_town.dna
+Reading DNA file... phase_6/dna/urban_track_town.dna
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1482, in handlePlayGame
+    self.handleGenerateWithRequiredOther(di)
+  File "otp\distributed\OTPClientRepository.py", line 1991, in handleGenerateWithRequiredOther
+    self.doGenerate(parentId, zoneId, classId, doId, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 162, in doGenerate
+    distObj = self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 351, in updateRequiredOtherFields
+    self.announceGenerate()
+  File "toontown\racing\DistributedRace.py", line 137, in announceGenerate
+    self.setupGeom()
+  File "toontown\racing\DistributedRace.py", line 942, in setupGeom
+    self.loadUrbanTrack()
+  File "toontown\racing\DistributedRace.py", line 730, in loadUrbanTrack
+    node = loader.loadDNAFile(self.dnaStore, dnaFile)
+  File "toontown\toonbase\ToontownLoader.py", line 23, in loadDNAFile
+    return loadDNAFile(dnastore, filename)
+  File "toontown\dna\DNAParser.py", line 2377, in loadDNAFile
+    dnaloader.getData().read(open(filename, 'r'))
+  File "toontown\dna\DNAParser.py", line 648, in read
+    parser.parse(stream.read())
+  File "toontown\dna\ply\yacc.py", line 265, in parse
+    return self.parseopt_notrack(input,lexer,debug,tracking,tokenfunc)
+  File "toontown\dna\ply\yacc.py", line 971, in parseopt_notrack
+    p.callable(pslice)
+  File "toontown\dna\DNAParser.py", line 1816, in p_landmarkbuildingdef
+    zoneId = int(p[0].getVisGroup().getName().split(':')[0])
+AttributeError: 'NoneType' object has no attribute 'getName'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1482, in handlePlayGame
+    self.handleGenerateWithRequiredOther(di)
+  File "otp\distributed\OTPClientRepository.py", line 1991, in handleGenerateWithRequiredOther
+    self.doGenerate(parentId, zoneId, classId, doId, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 162, in doGenerate
+    distObj = self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 351, in updateRequiredOtherFields
+    self.announceGenerate()
+  File "toontown\racing\DistributedRace.py", line 137, in announceGenerate
+    self.setupGeom()
+  File "toontown\racing\DistributedRace.py", line 942, in setupGeom
+    self.loadUrbanTrack()
+  File "toontown\racing\DistributedRace.py", line 730, in loadUrbanTrack
+    node = loader.loadDNAFile(self.dnaStore, dnaFile)
+  File "toontown\toonbase\ToontownLoader.py", line 23, in loadDNAFile
+    return loadDNAFile(dnastore, filename)
+  File "toontown\dna\DNAParser.py", line 2377, in loadDNAFile
+    dnaloader.getData().read(open(filename, 'r'))
+  File "toontown\dna\DNAParser.py", line 648, in read
+    parser.parse(stream.read())
+  File "toontown\dna\ply\yacc.py", line 265, in parse
+    return self.parseopt_notrack(input,lexer,debug,tracking,tokenfunc)
+  File "toontown\dna\ply\yacc.py", line 971, in parseopt_notrack
+    p.callable(pslice)
+  File "toontown\dna\DNAParser.py", line 1816, in p_landmarkbuildingdef
+    zoneId = int(p[0].getVisGroup().getName().split(':')[0])
+AttributeError: 'NoneType' object has no attribute 'getName'
