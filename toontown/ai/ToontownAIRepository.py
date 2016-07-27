@@ -39,6 +39,7 @@ from toontown.hood import OZHoodAI
 from toontown.hood import SellbotHQAI
 from toontown.hood import TTHoodAI
 from toontown.hood import ZoneUtil
+from toontown.hood import TEHoodAI
 from toontown.pets.PetManagerAI import PetManagerAI
 from toontown.safezone.SafeZoneManagerAI import SafeZoneManagerAI
 from toontown.suit.SuitInvasionManagerAI import SuitInvasionManagerAI
@@ -140,6 +141,8 @@ class ToontownAIRepository(ToontownInternalRepository):
             self.hoods.append(OZHoodAI.OZHoodAI(self))
         if self.config.GetBool('want-golf-zone', True):
             self.hoods.append(GZHoodAI.GZHoodAI(self))
+        if self.config.GetBool('want-test', True):
+            self.hoods.append(TEHoodAI.TEHoodAI(self))
 
     def createCogHeadquarters(self):
         NPCToons.generateZone2NpcDict()

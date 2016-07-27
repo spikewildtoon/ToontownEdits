@@ -156,6 +156,7 @@ MinniesMelodyland = 4000
 DaisyGardens = 5000
 OutdoorZone = 6000
 FunnyFarm = 7000
+Test = 7000
 GoofySpeedway = 8000
 DonaldsDreamland = 9000
 BarnacleBoulevard = 1100
@@ -182,7 +183,8 @@ HoodHierarchy = {ToontownCentral: (SillyStreet, LoopyLane, PunchlinePlace),
  MinniesMelodyland: (AltoAvenue, BaritoneBoulevard, TenorTerrace),
  DaisyGardens: (ElmStreet, MapleStreet, OakStreet),
  DonaldsDreamland: (LullabyLane, PajamaPlace),
- GoofySpeedway: ()}
+ GoofySpeedway: (),
+ Test: (LullabyLane, PajamaPlace)}
 WelcomeValleyToken = 0
 BossbotHQ = 10000
 BossbotLobby = 10100
@@ -210,7 +212,7 @@ Tutorial = 15000
 MyEstate = 16000
 GolfZone = 17000
 PartyHood = 18000
-HoodsAlwaysVisited = [17000, 18000]
+HoodsAlwaysVisited = [17000, 18000, 7000]
 WelcomeValleyBegin = 22000
 WelcomeValleyEnd = 61000
 DynamicZonesBegin = 61000
@@ -317,7 +319,8 @@ Hoods = (DonaldsDock,
  SellbotHQ,
  CashbotHQ,
  LawbotHQ,
- GolfZone)
+ GolfZone,
+ Test)
 HoodsForTeleportAll = (DonaldsDock,
  ToontownCentral,
  TheBrrrgh,
@@ -330,7 +333,8 @@ HoodsForTeleportAll = (DonaldsDock,
  SellbotHQ,
  CashbotHQ,
  LawbotHQ,
- GolfZone)
+ GolfZone,
+ Test)
 BingoCardNames = {'normal': 0,
 'corners': 1,
 'diagonal': 2,
@@ -419,7 +423,8 @@ phaseMap = {Tutorial: 4,
  CashbotHQ: 10,
  LawbotHQ: 11,
  GolfZone: 6,
- PartyHood: 13}
+ PartyHood: 13,
+ Test: 8}
 streetPhaseMap = {ToontownCentral: 5,
  DonaldsDock: 6,
  MinniesMelodyland: 6,
@@ -433,7 +438,8 @@ streetPhaseMap = {ToontownCentral: 5,
  SellbotHQ: 9,
  CashbotHQ: 10,
  LawbotHQ: 11,
- PartyHood: 13}
+ PartyHood: 13,
+ Test: 8}
 dnaMap = {Tutorial: 'toontown_central',
  ToontownCentral: 'toontown_central',
  DonaldsDock: 'donalds_dock',
@@ -448,7 +454,8 @@ dnaMap = {Tutorial: 'toontown_central',
  SellbotHQ: 'cog_hq_sellbot',
  CashbotHQ: 'cog_hq_cashbot',
  LawbotHQ: 'cog_hq_lawbot',
- GolfZone: 'golf_zone'}
+ GolfZone: 'golf_zone',
+ Test: 'donalds_dreamland'}
 hoodNameMap = {DonaldsDock: TTLocalizer.DonaldsDock,
  ToontownCentral: TTLocalizer.ToontownCentral,
  TheBrrrgh: TTLocalizer.TheBrrrgh,
@@ -465,7 +472,8 @@ hoodNameMap = {DonaldsDock: TTLocalizer.DonaldsDock,
  Tutorial: TTLocalizer.Tutorial,
  MyEstate: TTLocalizer.MyEstate,
  GolfZone: TTLocalizer.GolfZone,
- PartyHood: TTLocalizer.PartyHood}
+ PartyHood: TTLocalizer.PartyHood,
+ Test: TTLocalizer.Test}
 safeZoneCountMap = {MyEstate: 8,
  Tutorial: 6,
  ToontownCentral: 6,
@@ -478,7 +486,8 @@ safeZoneCountMap = {MyEstate: 8,
  DonaldsDreamland: 5,
  OutdoorZone: 500,
  GolfZone: 500,
- PartyHood: 500}
+ PartyHood: 500,
+ Test: 5}
 townCountMap = {MyEstate: 8,
  Tutorial: 40,
  ToontownCentral: 37,
@@ -490,7 +499,8 @@ townCountMap = {MyEstate: 8,
  FunnyFarm: 40,
  DonaldsDreamland: 40,
  OutdoorZone: 40,
- PartyHood: 20}
+ PartyHood: 20,
+ Test: 40}
 hoodCountMap = {MyEstate: 2,
  Tutorial: 2,
  ToontownCentral: 2,
@@ -507,7 +517,8 @@ hoodCountMap = {MyEstate: 2,
  CashbotHQ: 2,
  LawbotHQ: 2,
  GolfZone: 2,
- PartyHood: 2}
+ PartyHood: 2,
+ Test: 2}
 TrophyStarLevels = (10,
  20,
  30,
@@ -1602,6 +1613,7 @@ DG = 5
 BR = 6
 OZ = 7
 DL = 8
+Test = 9
 DefaultWantNewsPageSetting = 1
 gmMagicWordList = ['restock',
  'restockUber',

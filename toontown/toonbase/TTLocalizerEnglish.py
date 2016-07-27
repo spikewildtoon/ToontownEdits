@@ -80,6 +80,7 @@ lGoofySpeedway = 'Goofy Speedway'
 lOutdoorZone = "Chip 'n Dale's Acorn Acres"
 lGolfZone = "Chip 'n Dale's MiniGolf"
 lPartyHood = 'Party Grounds'
+lTest = 'Test'
 GlobalStreetNames = {20000: ('to', 'on', 'Tutorial Terrace'),
  1000: ('to the', 'in the', 'Playground'),
  1100: ('to', 'on', 'Barnacle Boulevard'),
@@ -101,6 +102,7 @@ GlobalStreetNames = {20000: ('to', 'on', 'Tutorial Terrace'),
  5100: ('to', 'on', 'Elm Street'),
  5200: ('to', 'on', 'Maple Street'),
  5300: ('to', 'on', 'Oak Street'),
+ 7000: ('to the', 'in the', 'Playground'),
  9000: ('to the', 'in the', 'Playground'),
  9100: ('to', 'on', 'Lullaby Lane'),
  9200: ('to', 'on', 'Pajama Place'),
@@ -135,6 +137,7 @@ OutdoorZone = ('to', 'in', lOutdoorZone)
 FunnyFarm = ('to the', 'in the', 'Funny Farm')
 GoofySpeedway = ('to', 'in', lGoofySpeedway)
 DonaldsDreamland = ('to', 'in', lDonaldsDreamland)
+Test = ('to', 'in', lTest)
 BossbotHQ = ('to', 'in', 'Bossbot HQ')
 SellbotHQ = ('to', 'in', 'Sellbot HQ')
 CashbotHQ = ('to', 'in', 'Cashbot HQ')
@@ -4327,6 +4330,8 @@ MusicTtElevator = 'Going Up?'
 MusicEncntrToonWinningIndoor = 'Toons Unite!'
 MusicEncntrGeneralSuitWinningIndoor = 'Cog-tastrophe!'
 MusicTbNbrhood = 'The Brrrgh'
+MusicDlNbrhood = "Donald's Dreamland"
+MusicDlSzActivity = 'Counting Sheep'
 MusicDlNbrhood = "Donald's Dreamland"
 MusicDlSzActivity = 'Counting Sheep'
 MusicDgSz = 'Waltz of the Flowers'

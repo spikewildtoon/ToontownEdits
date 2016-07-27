@@ -18,7 +18,7 @@ class MapPage(ShtikerPage.ShtikerPage):
         mapModel.removeNode()
         self.allZones = []
         for hood in ToontownGlobals.Hoods:
-            if hood not in [ToontownGlobals.GolfZone, ToontownGlobals.FunnyFarm]:
+            if hood not in [ToontownGlobals.GolfZone, ToontownGlobals.Test]:
                 self.allZones.append(hood)
 
         self.cloudScaleList = (((0.55, 0, 0.4), (0.35, 0, 0.25)),
@@ -33,6 +33,7 @@ class MapPage(ShtikerPage.ShtikerPage):
          ((-0.45, 0, 0.4),),
          ((-0.45, 0, 0.35),),
          ((0.5, 0, 0.35),),
+         ((0.5, 0, 0.35),),
          ((0.5, 0, 0.35),))
         self.cloudPosList = (((0.575, 0.0, -0.04), (0.45, 0.0, -0.25)),
          (),
@@ -46,7 +47,8 @@ class MapPage(ShtikerPage.ShtikerPage):
          ((-0.68, 0.0, -0.444),),
          ((-0.6, 0.0, 0.45),),
          ((0.66, 0.0, 0.5),),
-         ((0.4, 0.0, -0.35),))
+         ((0.4, 0.0, -0.35),)
+         ((0.35, 0.0, -0.-0.03),))
         self.labelPosList = ((0.594, 0.0, -0.075),
          (0.0, 0.0, -0.1),
          (0.475, 0.0, 0.25),
@@ -59,7 +61,8 @@ class MapPage(ShtikerPage.ShtikerPage):
          (-0.7, 0.0, -0.5),
          (-0.7, 0.0, 0.5),
          (0.7, 0.0, 0.5),
-         (0.45, 0.0, -0.45))
+         (0.45, 0.0, -0.45),
+         (0.3, 0.0, 0.06))
         self.labels = []
         self.clouds = []
         guiButton = loader.loadModel('phase_3/models/gui/quit_button')

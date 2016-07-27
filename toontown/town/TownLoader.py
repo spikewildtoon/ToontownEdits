@@ -30,7 +30,8 @@ class TownLoader(StateData.StateData):
         DaisyGardens : 'phase_9/audio/bgm/encntr_suit_dg.ogg',
         MinniesMelodyland : 'phase_9/audio/bgm/encntr_suit_mml.ogg',
         TheBrrrgh : 'phase_9/audio/bgm/encntr_suit_tb.ogg',
-        DonaldsDreamland : 'phase_9/audio/bgm/encntr_suit_ddl.ogg'
+        DonaldsDreamland : 'phase_9/audio/bgm/encntr_suit_ddl.ogg',
+        Test : 'phase_9/audio/bgm/encntr_suit_ddl.ogg'
     }
     
     def __init__(self, hood, parentFSMState, doneEvent):
